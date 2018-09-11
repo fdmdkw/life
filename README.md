@@ -1,6 +1,6 @@
 # life
 ## blueprint
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vRDEYPQPFZmRomBwyVXyjBBQW6ddeRHwq_tAWcMEYExpiteWOHA0BOPpCC3ndSHq5SzD83vR0GIaJT7/pubhtml
+https://drive.google.com/open?id=1qupVRq3zgvWjoufM3gHp3fa16lcAyznZlQ06zeYZ_aI
 
 ## work flow
